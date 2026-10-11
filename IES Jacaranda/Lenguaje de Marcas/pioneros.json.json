@@ -1,0 +1,36 @@
+{
+    "archivohistorico": {
+        "pionero": [
+            {
+                "nombre": " Alan Turing ",
+                "nacimiento": {
+                    "fecha": " 1912 ",
+                    "lugar": " Londres, Reino Unido "
+                },
+                "fallecimiento": " 1954 ",
+                "aportaciones": " Creador de la máquina de Turing  ",
+                "reconocimientos": "Miembro de la Real Society , Oficial de la Orden del Imperio Britanico y creación del Premio Turing en 1966"
+            },
+            {
+                "nombre": " Ada Lovelace ",
+                "nacimiento": {
+                    "fecha": " 1815 ",
+                    "lugar": " Londres, Reino Unido "
+                },
+                "fallecimiento": " 1852 ",
+                "aportaciones": " Creadora del Primer Algoritmo ",
+                "reconocimientos": "Lenguaje de programación Ada y Premio Ada Lovelace Award"
+            },
+            {
+                "nombre": " Charles Babbage ",
+                "nacimiento": {
+                    "fecha": " 1791 ",
+                    "lugar": " Londres, Reino Unido "
+                },
+                "fallecimiento": " 1852 ",
+                "aportaciones": " Creador de la Máquina Analítica ",
+                "reconocimientos": "Premio Charles Babbage"
+            }
+        ]
+    }
+}

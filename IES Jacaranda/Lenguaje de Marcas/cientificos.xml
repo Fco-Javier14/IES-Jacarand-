@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cientificos>
+
+    <cientifico id="1">
+
+        <nombre>Marie Curie</nombre>
+
+        <disciplinas>
+
+            <disciplina>Física</disciplina>
+
+            <disciplina>Química</disciplina>
+
+        </disciplinas>
+        
+        <biografia>Marie Curie fue una física y química polaca, nacionalizada francesa. Es conocida por sus investigaciones pioneras sobre la radiactividad, y fue la primera persona en ganar dos premios Nobel en distintas disciplinas científicas.</biografia>
+        
+        <nacimiento>
+            <fecha>1867-11-07</fecha>
+
+            <lugar>Varsovia, Polonia</lugar>
+
+        </nacimiento>
+        
+        <fallecimiento>
+
+            <fecha>1934-07-04</fecha>
+
+            <lugar>Passy, Francia</lugar>
+
+        </fallecimiento>
+        
+        <influencias>
+
+            <influencia>Henri Becquerel</influencia>
+
+            <influencia>Pierre Curie</influencia>
+
+        </influencias>
+        
+        <familia>
+
+            <conyuge desde="1895" hasta="1906">Pierre Curie</conyuge>
+
+            <hijos>
+
+                <hijo>Irène Joliot-Curie</hijo>
+
+                <hijo>Ève Curie</hijo>
+
+            </hijos>
+
+        </familia>
+        
+        <libros>
+
+            <libro año="1904">Investigaciones sobre las sustancias radiactivas</libro>
+
+            <libro año="1923">Pierre Curie</libro>
+
+            <libro año="1954">Radioactive Substances</libro>
+
+        </libros>
+
+    </cientifico>
+
+
+
+
+
+    <cientifico id="2">
+
+        <nombre>Carl Sagan</nombre>
+
+        <disciplinas>
+
+            <disciplina>Astrónomo</disciplina>
+
+            <disciplina>Divulgador científico</disciplina>
+
+        </disciplinas>
+        
+
+        <biografia>Carl Sagan fue un astrónomo, astrofísico y divulgador científico estadounidense, reconocido por popularizar la astronomía y la astrofísica a través de sus libros y programas de televisión.</biografia>
+        
+        <nacimiento>
+
+            <fecha>1934-11-09</fecha>
+
+            <lugar>Brooklyn, Nueva York, Estados Unidos</lugar>
+
+        </nacimiento>
+        
+        <fallecimiento>
+
+            <fecha>1996-12-20</fecha>
+
+            <lugar>Seattle, Washington, Estados Unidos</lugar>
+
+        </fallecimiento>
+        
+        <familia>
+
+            <conyuges>
+
+                <conyuge desde="1981" hasta="1996">Ann Druyan</conyuge>
+
+                <conyuge desde="1968" hasta="1981">Linda Salzman</conyuge>
+
+                <conyuge desde="1957" hasta="1965">Lynn Margulis</conyuge>
+
+            </conyuges>
+
+            <hijos>
+                <hijo>Dorion Sagan</hijo>
+
+                <hijo>Jeremy Sagan</hijo>
+
+                <hijo>Nick Sagan</hijo>
+
+                <hijo>Alexandra Sagan</hijo>
+            </hijos>
+
+            <hermanos>
+
+                <hermano>Carol Sagan</hermano>
+
+            </hermanos>
+
+        </familia>
+        
+        <libros>
+
+            <libro>Cosmos</libro>
+
+            <libro>Contact</libro>
+
+            <libro>Más</libro>
+
+        </libros>
+        
+        <producciones_audiovisuales>
+
+            <produccion tipo="programa de televisión" año="1980">Cosmos: Un viaje personal</produccion>
+
+            <produccion tipo="película" año="1997">Contact</produccion>
+
+        </producciones_audiovisuales>
+
+    </cientifico>
+
+</cientificos>
+
+

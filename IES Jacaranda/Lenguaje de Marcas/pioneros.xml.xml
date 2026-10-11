@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archivohistorico>
+
+   <pionero>
+
+      <nombre> Alan Turing </nombre>
+
+      <nacimiento>
+
+        <fecha> 1912 </fecha>
+
+        <lugar> Londres, Reino Unido </lugar>
+
+      </nacimiento>
+
+      <fallecimiento> 1954 </fallecimiento>
+
+      <aportaciones> Creador de la máquina de Turing  </aportaciones>
+
+      <reconocimientos>Miembro de la Real Society , Oficial de la Orden del Imperio Britanico y creación del Premio Turing en 1966</reconocimientos>
+    </pionero>
+
+
+
+
+    <pionero>
+
+      <nombre> Ada Lovelace </nombre>
+
+      <nacimiento>
+
+        <fecha> 1815 </fecha>
+
+        <lugar> Londres, Reino Unido </lugar>
+
+      </nacimiento>
+
+      <fallecimiento> 1852 </fallecimiento>
+
+      <aportaciones> Creadora del Primer Algoritmo </aportaciones>
+
+      <reconocimientos>Lenguaje de programación Ada y Premio Ada Lovelace Award</reconocimientos>
+      
+    </pionero>
+
+
+    <pionero>
+
+      <nombre> Charles Babbage </nombre>
+
+      <nacimiento>
+
+        <fecha> 1791 </fecha>
+
+        <lugar> Londres, Reino Unido </lugar>
+
+      </nacimiento>
+
+      <fallecimiento> 1852 </fallecimiento>
+
+      <aportaciones> Creador de la Máquina Analítica </aportaciones>
+
+      <reconocimientos>Premio Charles Babbage</reconocimientos>
+
+    </pionero>
+
+</archivohistorico>
+
+
+   
+   
+
