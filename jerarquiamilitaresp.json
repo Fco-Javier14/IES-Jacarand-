@@ -1,0 +1,33 @@
+{
+    "fuerzasarmadas":{
+         "ejercitotierra": {
+            "rangos": {
+            
+                "tropa": "Soldado y Cabo",
+                "suboficiales": "Sargento, Subteniente y Brigada",
+                "oficiales": "Teniente, Capitán, Comandante, Teniente Coronel y Coronel",
+                "oficialesgenerales": "General Brigada, General División, Teniente General y General de Ejército"
+            }
+        },
+
+         "ejercitoaire":{
+            "rangos": {
+
+                "tropa": "Soldado y Cabo",
+                "suboficiales": "Sargento, Subteniente y Brigada",
+                "oficialesTeniente": "Teniente, Capitán, Comandante, Teniente Coronel y Coronel",
+                "oficialesgenerales": "General Brigada, General División, Teniente General y General de Ejército"
+            }
+        },
+
+         "armada":{
+            "rangos":{
+
+                 "tropa": "Soldado y Cabo",
+                 "suboficiales": "Sargento, Subteniente y Brigada",
+                 "oficiales": "Teniente, Capitán, Comandante, Teniente Coronel y Coronel",
+                 "oficialesgenerales": "General Brigada, General División, Teniente General y General de Ejército"
+            }
+        }
+    }
+}

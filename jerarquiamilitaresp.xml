@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fuerzasarmadas>
+    <ejercitotierra>
+        <rangos>
+             <tropa>Soldado y Cabo </tropa>
+             <suboficiales>Sargento, Subteniente y Brigada</suboficiales>
+             <oficiales>Teniente, Capitán, Comandante, Teniente Coronel y Coronel</oficiales>
+             <oficialesgenerales>General Brigada, General División, Teniente General y General de Ejército</oficialesgenerales>
+        </rangos>
+    </ejercitotierra>
+
+    <ejercitoaire>
+        <rangos>
+             <tropa>Soldado y Cabo </tropa>
+             <suboficiales>Sargento, Subteniente y Brigada</suboficiales>
+             <oficiales>Teniente, Capitán, Comandante, Teniente Coronel y Coronel</oficiales>
+             <oficialesgenerales>General Brigada, General División, Teniente General y General de Ejército</oficialesgenerales>
+        </rangos>
+    </ejercitoaire>
+
+    <armada>
+        <rangos>
+             <tropa>Soldado y Cabo </tropa>
+             <suboficiales>Sargento, Subteniente y Brigada</suboficiales>
+             <oficiales>Teniente, Capitán, Comandante, Teniente Coronel y Coronel</oficiales>
+             <oficialesgenerales>General Brigada, General División, Teniente General y General de Ejército</oficialesgenerales>
+        </rangos>
+    </armada>
+</fuerzasarmadas>
