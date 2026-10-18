@@ -20,5 +20,9 @@ else:
 
 
 
-
+"""
+En este trabajo he logrado poner en práctica cada concepto aprendido en las primeras semanas. He logrado crear un programa que simula el funcionamiento de un reloj digital al hacer que, cuando se introduzca las horas, minutos y segundos , salga reflejado en el terminal la hora del reloj cuando pasa +1 segundo. 
+He utilizado todo lo que he aprendido hasta el momento: he colocado las tres variables del programa (hora, minutos y segundos) con sus respectivos input para introducir los valores , los cuáles son enteros (int), en el terminal; he puesto un bucle "while" con not para dejar claro que cuando no cumplan alguno de los
+requisitos el programa seguirá pidiendo los datos hasta que sean correctos; y posteriormente he puesto condicionales para indicar las posibilidades que hay y lo que tiene que salir reflejado en cada caso.
+"""
 
